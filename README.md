@@ -6,8 +6,8 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedIn.com/in/mustafakemalceliks) [Instagram](https://www.instagram.com/musttkemal/)
 - ⚡ Fun fact: Following NBA, Playing Basketball, PC and PS games, Spotify Music Scout :)
 <p align="center">
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkceliks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkceliks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
  
 </p>
 
